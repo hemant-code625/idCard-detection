@@ -112,10 +112,10 @@ yolo task=detect mode=predict model=runs/detect/train14/weights/best.pt source=0
 ---
 
 ## 🎉 Demo
-![idcard_test_00009](https://github.com/user-attachments/assets/3464fd51-c4b1-420d-aaaa-b83004b353f5)
-![image](https://github.com/user-attachments/assets/c86c898a-245b-4f12-9321-01586e9ac0c0)
-![idcard_test_00006](https://github.com/user-attachments/assets/dc04111a-0738-46ab-a9d0-21d01d68869d)
-![u1](https://github.com/user-attachments/assets/edbdc917-8358-408b-bd2b-1211f1ddd239)
+![u1](https://github.com/user-attachments/assets/15fa5224-15f3-423e-8c70-d0ca9bd92707)
+![u2](https://github.com/user-attachments/assets/2cbd688b-e854-4b7c-b47a-48fc8ea99132)
+![u3](https://github.com/user-attachments/assets/4f25dc78-e890-4374-ae27-23efaf35c978)
+![u4](https://github.com/user-attachments/assets/487efa11-cd3e-47f2-9870-5fda1986f53a)
 
 ---
 ## 🗕️ Author
