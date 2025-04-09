@@ -1,0 +1,6 @@
+path: D:/HEMANT/DIP/idcard_dataset
+train: D:/HEMANT/DIP/idcard_dataset/images/train
+val: D:/HEMANT/DIP/idcard_dataset/images/val
+
+nc: 1
+names: ["idcard"]
