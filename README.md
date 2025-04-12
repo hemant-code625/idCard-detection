@@ -112,11 +112,12 @@ yolo task=detect mode=predict model=runs/detect/train14/weights/best.pt source=0
 ---
 
 ## 🎉 Demo
-
-![Sample Output](sample_output.jpg) <!-- You can add your output image here -->
+![u1](https://github.com/user-attachments/assets/15fa5224-15f3-423e-8c70-d0ca9bd92707)
+![u2](https://github.com/user-attachments/assets/2cbd688b-e854-4b7c-b47a-48fc8ea99132)
+![u3](https://github.com/user-attachments/assets/4f25dc78-e890-4374-ae27-23efaf35c978)
+![u4](https://github.com/user-attachments/assets/487efa11-cd3e-47f2-9870-5fda1986f53a)
 
 ---
-
 ## 🗕️ Author
 
 Hemant – _YOLOv8 ID Card Detection Project_
